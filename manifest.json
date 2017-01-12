@@ -1,7 +1,15 @@
 {
-  "version": "2.6",
+  "version": "0.1",
+  "manifest_version": 2,
   "name": "CXA",
   "theme": {
-    
+    "colors": {
+      "frame": [160,106,229],
+      "toolbar": [193,127,255],
+      "ntp_text" : [255, 255, 255],
+      "ntp_link" : [211, 98, 255],
+      "ntp_section" : [244, 112, 255],
+      "button_background": [227,149,255]
+    }
   }
 }
