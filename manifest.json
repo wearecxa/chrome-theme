@@ -1,15 +1,20 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "name": "CXA",
   "theme": {
-    "colors": {
-      "frame": [160,106,229],
-      "toolbar": [193,127,255],
-      "ntp_text" : [255, 255, 255],
-      "ntp_link" : [211, 98, 255],
-      "ntp_section" : [244, 112, 255],
-      "button_background": [227,149,255]
+    "colors":{
+       "frame": [149, 71, 229],
+       "toolbar": [149, 71, 229],
+       "tab_text": [255, 255, 255],
+       "tab_background_text": [255, 255, 255],
+       "bookmark_text": [255, 255, 255],
+       "ntp_background": [149, 71, 229],
+       "ntp_text": [255, 255, 255],
+       "button_background": [179, 84, 255, 1]
+      },
+    "tints":{
+      "buttons": [0.75, 0.75, 0.59]
     }
   }
 }
